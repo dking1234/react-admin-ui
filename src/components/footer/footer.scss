@@ -1,8 +1,17 @@
 .footer{
+<<<<<<< Updated upstream
     display: flex;
     align-items: center;
     justify-content: space-between;
     padding: 20px;
+=======
+  display: flex;
+  margin-top: 50px;
+  flex-grow: 1;
+  align-items: center;
+  justify-content: space-between;
+  padding: 30px;
+>>>>>>> Stashed changes
 
     span{
         &:first-child{
